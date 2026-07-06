@@ -1,0 +1,4 @@
+# Requirement.txt
+Flask>=3.0.0
+requests>=2.32.0
+gunicorn>=23.0.0
