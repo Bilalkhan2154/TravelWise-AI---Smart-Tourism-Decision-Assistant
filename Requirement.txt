@@ -1,5 +1,5 @@
-streamlit==1.45.1
-plotly==6.0.1
-pandas==2.2.3
-numpy==2.2.6
-requests==2.32.3
+streamlit
+plotly
+pandas
+numpy
+scikit-learn
