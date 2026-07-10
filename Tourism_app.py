@@ -19,6 +19,12 @@ Deploy on streamlit.io:
         pandas
         plotly
     - No API keys needed. Fully free & open APIs.
+requirements.txt
+streamlit==1.45.1
+plotly==6.0.1
+pandas==2.2.3
+numpy==2.2.6
+requests==2.32.3
 """
 
 import difflib
