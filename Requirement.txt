@@ -1,4 +1,4 @@
-# Requirement.txt
+requirements.txt
 streamlit
 pandas
 plotly
