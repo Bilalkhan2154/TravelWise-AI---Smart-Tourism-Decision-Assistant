@@ -1,6 +1,7 @@
 requirements.txt
 streamlit
 pandas
-plotly
 requests
 numpy
+streamlit>=1.35.0
+plotly>=5.22.0
